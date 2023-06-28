@@ -38,7 +38,7 @@ Check out some of my notable projects:
 Feel free to connect with me! Let's collaborate and create amazing things together. You can reach me through:
 
 - Email: [sharmaharikeshkumar3@gmail.com](mailto:sharmaharikeshkumar3@gmail.com)
-- LinkedIn: [Harikesh Kumar Sharma](https://www.linkedin.com/in/harikesh-kumar-sharma)
+- LinkedIn: [Harikesh Kumar Sharma](https://www.linkedin.com/in/harikeshksharma)
 <!--
 - Twitter: [@your_twitter_handle](https://twitter.com/your_twitter_handle)
 -->
