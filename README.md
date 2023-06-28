@@ -27,9 +27,9 @@ Here are some of the technologies and tools I work with:
 - Git
 
 ## 🚀 Projects
+Yet to be deployed! (More work needed😅)
 <!--
 Check out some of my notable projects:
-
 1. [Project 1](https://github.com/example/project1): A web application built with React.js and Node.js that showcases my problem-solving skills.
 2. [Project 2](https://github.com/example/project2): An interactive portfolio website highlighting my web development journey.
 -->
