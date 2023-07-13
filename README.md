@@ -54,7 +54,7 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 
 ## 💪 Practice Streak
 
-- ![LeetCode Stats](https://leetcode.card.workers.dev/sharmaharikeshkumar3?theme=unicorn&font=source_code_pro&extension=null)
+![LeetCode Stats](https://leetcode.card.workers.dev/sharmaharikeshkumar3?theme=unicorn&font=source_code_pro&extension=null)
 
 <!--
 **HarikeshKS/HarikeshKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
