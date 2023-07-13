@@ -52,8 +52,9 @@ Feel free to connect with me! Let's collaborate and create amazing things togeth
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't forget to leave a ⭐️ if you find something interesting. Let's make the world a better place, one line of code at a time! 🌎✨
 
-Practice Streak on the way!
-![LeetCode Stats](https://leetcode.card.workers.dev/sharmaharikeshkumar3?theme=unicorn&font=source_code_pro&extension=null)
+## 💪 Practice Streak
+
+- ![LeetCode Stats](https://leetcode.card.workers.dev/sharmaharikeshkumar3?theme=unicorn&font=source_code_pro&extension=null)
 
 <!--
 **HarikeshKS/HarikeshKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
