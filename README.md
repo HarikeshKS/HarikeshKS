@@ -60,6 +60,8 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 
 ###LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap)
+
+![](https://komarev.com/ghpvc/?username=sharmaharikeshkumar3)
 <!--
 **HarikeshKS/HarikeshKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
