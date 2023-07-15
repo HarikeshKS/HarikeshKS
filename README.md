@@ -54,8 +54,11 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 
 ## 💪 Streaks
 
+#GitHub
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharmaharikeshkumar3&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+
+#LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaharikeshkumar3&theme=dark)](https://git.io/streak-stats)
 <!--
 **HarikeshKS/HarikeshKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
