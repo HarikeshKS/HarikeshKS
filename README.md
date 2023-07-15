@@ -55,7 +55,7 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 ## 💪 Streaks
 
 #GitHub
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sharmaharikeshkumar3&theme=synthwave)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaharikeshkumar3)](https://git.io/streak-stats)
 
 #LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap)
