@@ -1,7 +1,7 @@
 <!-- Hey there! Welcome to my GitHub profile! 👋 -->
 
 # Hello, I'm Harikesh Kumar Sharma! 👨‍💻
-![linkedin](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)]
+![](https://komarev.com/ghpvc/?username=sharmaharikeshkumar3)
 
 Welcome to my coding universe! I'm a passionate web developer and programmer, constantly exploring the realms of technology. I thrive on solving complex problems, embracing challenges, and building amazing projects. 🚀
 
@@ -61,9 +61,6 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 ###LeetCode
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap)
 
-![](https://komarev.com/ghpvc/?username=sharmaharikeshkumar3)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sharmaharikeshkumar3)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **HarikeshKS/HarikeshKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
