@@ -55,7 +55,7 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 ## 💪 Streaks
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaharikeshkumar3&theme=dark)](https://git.io/streak-stats&rising-sun)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sharmaharikeshkumar3&theme=dark)](https://git.io/streak-stats)
 <!--
 **HarikeshKS/HarikeshKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
