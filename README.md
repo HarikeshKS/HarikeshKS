@@ -64,7 +64,7 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 ## 📫 Get in Touch
 
 Feel free to connect with me! Let's collaborate and create amazing things together. You can reach me through: </br>
-[![Email](https://img.shields.io/badge/EMAIL-%231DG1F2.svg?logo=EMAIL&logoColor=white)](mailto:sharmaharikeshkumar3@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harikesh_k4_sharma7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harikeshksharma)
+[![Email](https://img.shields.io/badge/EMAIL-%231DG1F2.svg?logo=EMAIL&logoColor=white)](mailto:sharmaharikeshkumar3@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harikesh_kr_sharma7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harikeshksharma)
 
 <hr/>
 <p align="center"> © 2023 Harikesh Kumar Sharma, all rights reserved. Made with ❤️ for a better web. </p>
