@@ -31,6 +31,7 @@ Here are some of the technologies and tools I work with:
 <p>
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Portfolio&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Temperature-Converter&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Netflix-clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
 <!--
 Check out some of my notable projects:
