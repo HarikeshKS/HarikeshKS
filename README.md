@@ -28,7 +28,7 @@ Here are some of the technologies and tools I work with:
 - Git
 
 ## 🚀 Projects
-<p>
+<p align="center">
   <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Portfolio&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Temperature-Converter&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Netflix-clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
@@ -49,18 +49,12 @@ Check out some of my notable projects:
 - ✨ I am a musician too.
 
 Thank you for visiting my GitHub profile! Feel free to explore my repositories and don't forget to leave a ⭐️ if you find something interesting. Let's make the world a better place, one line of code at a time! 🌎✨
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarikeshKS&layout=compact&theme=cobalt&hide_border=true" />
+</p>
 
 ## 💪 Practice Streak
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap)
-
-
-## 📊 GitHub Status:
-<p align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=HarikeshKS&show_icons=true&include_all_commits=true&theme=cobalt&hide_border=true" alt="My github stats" /> 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=HarikeshKS&theme=vue-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="My github stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarikeshKS&layout=compact&theme=cobalt&hide_border=true" />
-</p>
 
 ## 📫 Get in Touch
 
