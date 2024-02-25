@@ -115,7 +115,7 @@ Feel free to connect with me! Let's collaborate and create amazing things togeth
 
 <hr/>
 
-<p align="center"> © 2023 Harikesh Kumar Sharma, all rights reserved. Made with ❤️ for a better web. </p>
+<p align="center"> © 2024 Harikesh Kumar Sharma, all rights reserved. Made with ❤️ for a better web. </p>
 <!--
 **HarikeshKS/HarikeshKS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
