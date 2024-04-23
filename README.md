@@ -63,8 +63,8 @@ Welcome to my coding universe! I'm a passionate web developer and programmer, co
 
 ## 🚀 Projects
 <p align="center">
-  <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Personal-Portfolio&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
-<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Temperature-Converter&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=MazeSolverAPMini&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
+<img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Personal-Portfolio&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 <img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=HarikeshKS&repo=Netflix-clone&theme=react&bg_color=273849&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streak-stats">
 </p>
 <!--
