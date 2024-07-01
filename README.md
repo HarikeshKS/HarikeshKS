@@ -87,8 +87,14 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarikeshKS&layout=compact&theme=cobalt&hide_border=true" />
 </p>
 
-<hr/>
-<!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap) -->
+
+<!--
+[![Harikesh's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sharmaharikeshkumar3&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+-->
+<div align="center">
+    <img src="https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap" alt="LeetCode Stats">
+</div>
+
 <p align="center">
   <a href="https://github.com/HarikeshKS">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarikeshKS&theme=radical&border=7F3FBF&background=0D1117" alt="Harikesh's GitHub streak"/>
@@ -109,6 +115,7 @@ Thank you for visiting my GitHub profile! Feel free to explore my repositories a
 
 
 ![Harikesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarikeshKS&custom_title=Harikesh%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
 
 ## 📫 Get in Touch
 
