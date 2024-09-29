@@ -84,6 +84,9 @@ Welcome to my coding universe! I'm a passionate web developer and programmer, co
 - ✨ I believe in continuous learning and growth
 - ✨ I am a musician too
 
+## 😶‍🌫️ Badges
+[![An image of @harikeshks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harikeshks)](https://holopin.io/@harikeshks)
+
 ## 📊 GitHub Stats
 
 <div align="center">
