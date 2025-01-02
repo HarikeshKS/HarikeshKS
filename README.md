@@ -124,3 +124,18 @@ Feel free to connect with me! Let's collaborate and create amazing things togeth
 ---
 
 <p align="center"> © 2024 Harikesh Kumar Sharma, all rights reserved. Made with ❤️ for a better web. </p>
+
+
+---
+## 🎵 Music Stuff  
+
+When I’m not immersed in code, you’ll find me jamming to tunes, exploring rhythms, and creating melodies. Music fuels my creativity and keeps me inspired! Here’s what I love to do:  
+
+- 🎤 **Singer and Beatboxer**: I express myself through singing and crafting unique beats with just my voice.  
+- 🎸 **Guitarist**: Strumming the strings is my go-to way to unwind and create.  
+- 🎹 **Keyboard Player**: I enjoy experimenting with melodies and harmonies on the keys.  
+- 🎧 **Music Producer**: I blend sounds, beats, and ideas to produce tracks that resonate.  
+
+💡 **Let’s Collaborate**: Whether you’re a fellow musician, producer, or just someone who loves music, I’d love to jam, produce, or even experiment with blending music and tech. Let’s create something awesome together—for fun, for passion, and for the love of music!  
+
+🎶 Feel free to reach out to me on [Instagram](https://instagram.com/harikesh_kr_sharma7) or [YouTube](https://www.youtube.com/@MechsMusicBBX). Let’s make music magic happen! 🎼  
