@@ -5,6 +5,7 @@
 
 Welcome to my coding universe! I'm a passionate web developer and programmer, constantly exploring the realms of technology. I thrive on solving complex problems, embracing challenges, and building amazing projects. 🚀
 
+
 ## 🌟 What I Do
 
 - ✨ Full-stack web development
@@ -12,6 +13,7 @@ Welcome to my coding universe! I'm a passionate web developer and programmer, co
 - ✨ Data Structures and Algorithms
 - ✨ Endurance and focus for coding marathons
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=HarikeshKS&theme=onedark)](https://github.com/HarikeshKS/github-profile-trophy)
 ## 💻 Technologies and Tools
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
