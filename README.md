@@ -3,18 +3,22 @@
 # Hello, I'm Harikesh Kumar Sharma! 👨‍💻
 ![](https://komarev.com/ghpvc/?username=HarikeshKS)
 
-Welcome to my coding universe! I'm a passionate web developer and programmer, constantly exploring the realms of technology. I thrive on solving complex problems, embracing challenges, and building amazing projects. 🚀
+Welcome to my coding universe! I'm a passionate software developer, programmer, and tester, constantly exploring the realms of technology. I thrive on solving complex problems, embracing challenges, ensuring quality, and building amazing projects. 🚀
 
 
 ## 🌟 What I Do
 
-- ✨ Full-stack web development
-- ✨ Problem-solving enthusiast
-- ✨ Data Structures and Algorithms
-- ✨ Endurance and focus for coding marathons
-  
+- ✨ Full-stack web development  
+- ✨ Problem-solving enthusiast  
+- ✨ Data Structures and Algorithms  
+- ✨ Endurance and focus for coding marathons  
+- ✨ **Manual & Automation Testing for real-world projects**  
+- ✨ **API & UI Test Automation (Java, Selenium, Rest Assured)**  
+
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarikeshKS&theme=juicyfresh)](https://github.com/HarikeshKS/github-profile-trophy)
+
+
 ## 💻 Technologies and Tools
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
@@ -36,6 +40,14 @@ Welcome to my coding universe! I'm a passionate web developer and programmer, co
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+
+### QA, Testing & Automation
+![Selenium](https://img.shields.io/badge/Selenium%20WebDriver-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![Rest Assured](https://img.shields.io/badge/Rest%20Assured-FF6C37?style=for-the-badge&logo=testing-library&logoColor=white)  
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)  
+![TestNG](https://img.shields.io/badge/TestNG-FF8C00?style=for-the-badge&logo=testng&logoColor=white)  
+- ✅ **Manual Testing**: Crafting clear test cases, finding bugs, and ensuring quality from the user’s perspective.  
+- ✅ **Automation Testing**: Building frameworks in Java using **Selenium & Rest Assured** with DTOs, OOPs, and POJOs for scalable, maintainable automation.  
 
 ### Data Science & ML
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -65,6 +77,8 @@ Welcome to my coding universe! I'm a passionate web developer and programmer, co
 ![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
@@ -79,18 +93,24 @@ Welcome to my coding universe! I'm a passionate web developer and programmer, co
 </a>
 </p>
 
+---
+
 ## 🌈 Fun Facts
 
-- ✨ I speak fluent code!
-- ✨ My favorite emoji is 💻
-- ✨ I enjoy challenging myself with coding puzzles
-- ✨ I believe in continuous learning and growth
-- ✨ I am a musician too
+- ✨ I speak fluent code (and bugs too 🐞)!  
+- ✨ My favorite emoji is 💻  
+- ✨ I enjoy challenging myself with coding puzzles & testing tricky scenarios  
+- ✨ I believe in continuous learning and growth  
+- ✨ I am a musician too  
+
+---
 
 ## 😶‍🌫️ Badges
 [![An image of @harikeshks's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/harikeshks)](https://holopin.io/@harikeshks)
 
-## 📊 GitHub Stats
+---
+
+## 📊 GitHub & Coding Stats
 
 <div align="center">
     <img src="https://leetcard.jacoblin.cool/sharmaharikeshkumar3?ext=heatmap" alt="LeetCode Stats">
@@ -116,6 +136,8 @@ Welcome to my coding universe! I'm a passionate web developer and programmer, co
 
 ![Harikesh's Graph](https://github-readme-activity-graph.vercel.app/graph?username=HarikeshKS&custom_title=Harikesh%20's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
+---
+
 ## 📫 Get in Touch
 
 Feel free to connect with me! Let's collaborate and create amazing things together. You can reach me through:
@@ -126,13 +148,13 @@ Feel free to connect with me! Let's collaborate and create amazing things togeth
 
 ---
 
-<p align="center"> © 2024 Harikesh Kumar Sharma, all rights reserved. Made with ❤️ for a better web. </p>
-
+<p align="center"> © 2024 Harikesh Kumar Sharma, all rights reserved. Made with ❤️ for a better web & bug-free apps. </p>
 
 ---
+
 ## 🎵 Music Stuff  
 
-When I’m not immersed in code, you’ll find me jamming to tunes, exploring rhythms, and creating melodies. Music fuels my creativity and keeps me inspired! Here’s what I love to do:  
+When I’m not immersed in code or testing, you’ll find me jamming to tunes, exploring rhythms, and creating melodies. Music fuels my creativity and keeps me inspired! Here’s what I love to do:  
 
 - 🎤 **Singer and Beatboxer**: I express myself through singing and crafting unique beats with just my voice.  
 - 🎸 **Guitarist**: Strumming the strings is my go-to way to unwind and create.  
